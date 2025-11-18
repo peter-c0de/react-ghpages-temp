@@ -9,6 +9,16 @@ PS: MUST USE gh-pages branch on GitHub Pages.
 
 ______________
 
+# Aliases for Linux Users:
+
+alias viteNew='npx create-vite@latest'
+alias iGhp='npm install --save-dev gh-pages'
+alias runReact='npm run dev'
+alias deployReact='npm run deploy'
+
+______________
+
+
 # STEPS:
 
 ## 🛠 Step 1: Install gh-pages
