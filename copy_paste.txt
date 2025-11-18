@@ -1,0 +1,18 @@
+vite.config.js
+--------------
+
+  base: '/react-repo/', // 👈 For gh-pages
+
+###
+
+package.json
+
+  "homepage": "https://peter-c0de.github.io/react-repo/",
+
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+
+    "gh-pages": "^6.3.0",
+
+
