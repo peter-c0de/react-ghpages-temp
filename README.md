@@ -11,13 +11,13 @@ ______________
 
 # Aliases for Linux Users:
 
-alias viteNew='npx create-vite@latest'
+alias reactVite='npx create-vite@latest'
 
-alias iGhp='npm install --save-dev gh-pages'
+alias reactRun='npm run dev'
 
-alias runReact='npm run dev'
+alias reactIghp='npm install --save-dev gh-pages'
 
-alias deployReact='npm run deploy'
+alias reactDeploy='npm run deploy'
 
 ______________
 
